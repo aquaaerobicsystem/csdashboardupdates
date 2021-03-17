@@ -1,2 +1,2 @@
 # csdashboardupdate
-See Issues for resolutions
+See 'Issues' for resolutions
